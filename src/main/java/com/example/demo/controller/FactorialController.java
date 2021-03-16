@@ -12,9 +12,9 @@ public class FactorialController {
 		for (int x = 0; x < 10; x++) {
 			factorial = factorial(20);
 		}		
-		System.out.println("Hola, Bety!");
+		System.out.println("Hola, IFREM!");
 		System.out.println("Se calcula 10 veces el factorial de 20: " + factorial);
-		return "Se calcula 10 veces el factorial de 20: " + factorial + " - by Bety";
+		return "Se calcula 10 veces el factorial de 20: " + factorial + " - by IFREM";
 	}
 
 	public long factorial(int n) {
